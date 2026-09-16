@@ -1,0 +1,6 @@
+{
+  "name": "DocScan Studio",
+  "description": "All-in-one CamScanner-like document scanner architecture, production-ready Flutter/Kotlin implementation guide, and interactive scanner studio.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
